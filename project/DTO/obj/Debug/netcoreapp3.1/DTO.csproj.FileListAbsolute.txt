@@ -1,0 +1,9 @@
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\win 10\Desktop\ליאל שירה תכנות\שנה ב\c#-המורה פדר\c# project\project\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
